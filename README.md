@@ -27,8 +27,8 @@ Supported schemes include:
 - **RK4**: Standard Classical 4th-Order Runge-Kutta.
 - **RK6**: 6th-Order 7-Stage Luther/Runge-Kutta Integration Scheme.
 
-
 $$\begin{pmatrix} \dot{x} \\ \dot{v} \end{pmatrix} = \begin{pmatrix} v \\ f(t, x, v) \end{pmatrix}$$
+
 ## Project Architecture
 
 ```text
